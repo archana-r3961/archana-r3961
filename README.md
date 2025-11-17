@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 - 🎓 Third-year **Electronics & Communication Engineering (ECE)** student  
 - 💡 Passionate about **IoT automation, embedded systems, and AI-based hardware solutions**
-- 🔭 Currently expanding skills in **real-time systems & microcontroller development**
+- 🔭 Currently expanding skills in **real-time systems**
 - 🌱 Seeking opportunities in **embedded systems, IoT, AI-based automation, and R&D roles**
 
 ---
@@ -26,7 +26,7 @@
 | Programming | Python, C |
 | Embedded Systems | Arduino, Sensors (IR, Ultrasonic), Servo Motors |
 | Concepts | IoT, Automation, Control Systems, Sensor Interfacing |
-| Tools | Arduino IDE, Proteus, Simulation Tools |
+| Tools | Arduino IDE,  Simulation Tools |
 | Soft Skills | Team Collaboration, Problem Solving, Research & Innovation |
 
 ---
