@@ -41,7 +41,7 @@
 
 ---
 
-### 🏆 Hackathons & Achievements
+### 🏆 Hackathons 
 - **Smart India Hackathon — Project Submission**
 - **Ctrl + Alt + Hack — Smart Dustbin Prototype**
 - **Carpe Diem Hackathon — LICET**
