@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Archana R</h1>
-<h3 align="center">ECE Student | IoT & Embedded Systems | Hardware + Software Projects</h3>
-
----
+<h3 align="center">ECE Student 
 
 ### 👩‍💻 About Me
 - 🎓 Third-year **Electronics & Communication Engineering (ECE)** student  
@@ -24,10 +22,10 @@
 | Category | Skills |
 |---------|--------|
 | Programming | Python, C |
-| Embedded Systems | Arduino, Sensors (IR, Ultrasonic), Servo Motors |
+| Embedded Systems | Arduino, Sensors, Servo Motors |
 | Concepts | IoT, Automation, Control Systems, Sensor Interfacing |
 | Tools | Arduino IDE,  Simulation Tools |
-| Soft Skills | Team Collaboration, Problem Solving, Research & Innovation |
+| Soft Skills | Team Collaboration, Problem Solving |
 
 ---
 
