@@ -11,7 +11,7 @@
 
 ---
 
-### 📌 Contact Information (Mandatory for Internships)
+### 📌 Contact Information 
 | Detail | Information |
 |--------|-------------|
 | 📧 Email | **archana.27ec@licet.ac.in** |
