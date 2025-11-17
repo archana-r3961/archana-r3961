@@ -49,13 +49,8 @@
 - **Carpe Diem Hackathon — LICET**
 - **SRM Project Expo — Hardware Demonstration**
 
----
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archana-r3961&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-r3961&layout=compact&theme=tokyonight" width="40%"/>
-</p>
+
 
 ---
 
