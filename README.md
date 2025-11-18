@@ -1,20 +1,20 @@
-<h1 align="center">👋 Hi, I'm Archana R</h1>
+<h1 align="center"> Hi, I'm Archana R</h1>
 <h3 align="center">ECE Student 
 
-### 👩‍💻 About Me
-- 🎓 Third-year **Electronics & Communication Engineering (ECE)** student  
-- 💡 Passionate about **IoT automation, embedded systems, and AI-based hardware solutions**
-- 🔭 Currently expanding skills in **real-time systems**
-- 🌱 Seeking opportunities in **embedded systems, IoT, AI-based automation, and R&D roles**
+###  About Me
+- Third-year **Electronics & Communication Engineering (ECE)** student  
+-  Passionate about **IoT automation, embedded systems, and AI-based hardware solutions**
+-  Currently expanding skills in **real-time systems**
+-  Seeking opportunities in **embedded systems, IoT, AI-based automation, and R&D roles**
 
 ---
 
-### 📌 Contact Information 
+###  Contact Information 
 | Detail | Information |
 |--------|-------------|
-| 📧 Email | **archana.27ec@licet.ac.in** |
-| 📍 Location | **Chennai, Tamil Nadu, India** |
-| 🔗 GitHub | **github.com/archana-r3961** |
+|  Email | **archana.27ec@licet.ac.in** |
+|  Location | **Chennai, Tamil Nadu, India** |
+|  GitHub | **github.com/archana-r3961** |
 
 ---
 
@@ -29,19 +29,19 @@
 
 ---
 
-### 🚀 Major Projects
+###  Major Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🗑 Smart Dustbin | Automated waste segregation with conveyor control & servo system | Arduino, Sensors, C |
-| 😴 Drowsy Driving Detection | Fatigue monitoring with alert mechanism for driver safety | Sensors + Embedded C |
-| 🧥 Smart Jacket | Wearable prototype for safety & emergency assistance | IoT + ESP/Sensors |
-| 🔐 Smart Locking System | Smart access system with secure authorization | Embedded C + Arduino |
-| 🌱 Smart Irrigation | Crop water supply control using sensed parameters | IoT + ML Concepts |
-| 📱 JA Square | Collaboration application for project builders | Flutter & Firebase |
+|  Smart Dustbin | Automated waste segregation with conveyor control & servo system | Arduino, Sensors, C |
+|  Drowsy Driving Detection | Fatigue monitoring with alert mechanism for driver safety | Sensors + Embedded C |
+|  Smart Jacket | Wearable prototype for safety & emergency assistance | IoT + ESP/Sensors |
+|  Smart Locking System | Smart access system with secure authorization | Embedded C + Arduino |
+|  Smart Irrigation | Crop water supply control using sensed parameters | IoT + ML Concepts |
+|  JA Square | Collaboration application for project builders | Flutter & Firebase |
 
 ---
 
-### 🏆 Hackathons 
+###  Hackathons 
 - **Smart India Hackathon — Project Submission**
 - **Ctrl + Alt + Hack — Smart Dustbin Prototype**
 - **Carpe Diem Hackathon — LICET**
@@ -52,10 +52,10 @@
 
 ---
 
-### 🤝 Let's Connect
-💬 Open to: **Internships | Collaborations | Research | IoT / Embedded Projects**
+###  Let's Connect
+Open to: **Internships | Collaborations | Research | IoT / Embedded Projects**
 
-📧 **Email:** archana.27ec@licet.ac.in  
-📍 **Location:** Chennai, Tamil Nadu, India  
+ **Email:** archana.27ec@licet.ac.in  
+ **Location:** Chennai, Tamil Nadu, India  
 
 > *"Innovating to build technology that solves real-world problems."*
