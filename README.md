@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 Technical Skills
+### Technical Skills
 | Category | Skills |
 |---------|--------|
 | Programming | Python, C |
